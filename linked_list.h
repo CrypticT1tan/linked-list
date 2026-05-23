@@ -28,7 +28,6 @@ class Linked_List {
                 // Deleting the last node in the list
                 delete curr_node;
             }
-            std::cout << "Linked List has been cleared" << std::endl; // TODO: Delete after testing
         }
         
         int size(void) const {
